@@ -1,0 +1,9 @@
+.App {
+  display: grid;
+	place-items: center;
+  margin-top: 30px;
+}
+.container{
+  text-align: left
+}
+

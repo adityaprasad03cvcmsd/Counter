@@ -1,0 +1,10 @@
+.image{
+    height:20px;
+    width:15px;
+    display: inline-block;
+    border-right: 5px;
+}
+.text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+}
