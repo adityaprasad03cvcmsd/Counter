@@ -16,7 +16,7 @@ export const Counter = () => {
             .then((data) => {
               console.log("data",data)
                 if (data === null) {
-                    setCount(10)
+                    setCount(1)
                 }
                 else
                     setCount(data[8817970562]);
