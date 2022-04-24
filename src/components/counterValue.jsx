@@ -4,6 +4,6 @@ export const CounterValue = () => {
     let countervalue = useSelector((store) => store.counter[8817970562])
     console.log("counterValue", countervalue)
     return <div className="value">
-        Counter value : {countervalue||10}
+        Counter value : {countervalue||1}
     </div>
 }
